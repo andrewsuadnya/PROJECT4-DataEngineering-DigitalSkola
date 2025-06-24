@@ -94,8 +94,3 @@ The ETL script will read data from MySQL and write it to PostgreSQL (`data_wareh
 * [https://medium.com/analytics-vidhya/importing-data-from-a-mysql-database-into-pandas-data-frame-a06e392d27d7](https://medium.com/analytics-vidhya/importing-data-from-a-mysql-database-into-pandas-data-frame-a06e392d27d7)
 * [https://medium.com/geekculture/run-docker-in-windows-10-11-wsl-without-docker-desktop-a2a7eb90556d](https://medium.com/geekculture/run-docker-in-windows-10-11-wsl-without-docker-desktop-a2a7eb90556d)
 * [https://community.sap.com/t5/technology-blogs-by-sap/how-to-find-out-ports-used-by-applications-on-windows/ba-p/13564904](https://community.sap.com/t5/technology-blogs-by-sap/how-to-find-out-ports-used-by-applications-on-windows/ba-p/13564904)
-
----
-
-
-
