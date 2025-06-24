@@ -25,7 +25,8 @@
     - List tables inside database: `\d`
 
 
-![Alt text](image.png)
+![image](https://github.com/user-attachments/assets/183c9440-fb78-43bc-a40f-b5a7e167452a)
+
 
 # references:
 - https://towardsdatascience.com/upload-your-pandas-dataframe-to-your-database-10x-faster-eb6dc6609ddf
