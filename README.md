@@ -1,4 +1,4 @@
-# ETL YouTube Data from MySQL to PostgreSQL using Docker
+# Dockerized ETL Pipeline: MySQL to PostgreSQL
 
 ## 📌 Project Overview
 
