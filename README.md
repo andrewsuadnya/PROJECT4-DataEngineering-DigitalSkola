@@ -1,8 +1,8 @@
-# Dockerized ETL Pipeline: MySQL to PostgreSQL
+# 🛠️ ETL Pipeline: MySQL to PostgreSQL using Docker
 
 ## 📌 Project Overview
 
-This project involves implementing an ETL (Extract, Transform, Load) pipeline using Docker containers to transfer data from a MySQL database into a PostgreSQL-based Data Warehouse. The source data is a CSV file (`global_yotube_stat.csv`) which will be loaded into MySQL and then transferred into PostgreSQL using a Python ETL script.
+This project involves implementing an ETL (Extract, Transform, Load) pipeline using Docker containers to transfer data from a MySQL database into a PostgreSQL-based Data Warehouse. The source data is a CSV file (`global_youtube_stat.csv`), which will be loaded into MySQL and then transferred into PostgreSQL using a Python ETL script.
 
 ---
 
